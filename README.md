@@ -12,7 +12,7 @@ Our paper attempts to incorporate SCD into the AOP framework for environmental r
      
 
 # Files
-1. Imputation_DirectLiNGAM_code.md  
+1. Imputation_DirectLiNGAM_code.py  
 An example python code for SCD analysis to develop AOP. Run this code in a directory containing "Missing_all.csv".  
 
 2. Missing_all.csv  
